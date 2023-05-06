@@ -1,6 +1,7 @@
 {
   "name": "chatgpt-admin-web",
   "version": "0.0.1",
+  "private": true,
   "description": "ChatGPT web ui with user management and dashboard",
   "keywords": [
     "chatgpt",
